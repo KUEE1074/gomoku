@@ -1,2 +1,2 @@
-
-2020-2 Artificial Intelligence assignment
+# 2020-1 Artificial Intelligence assignment
+gomoku using alpha_beta_pruning
